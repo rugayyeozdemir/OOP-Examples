@@ -12,7 +12,7 @@ namespace OOP1
             product1.CategoryId = 2;
             product1.ProductName = "Masa";
             product1.UnitsInStock = 3;
-            Console.WriteLine("Test");
+            Console.WriteLine("rugeyye");
 
             Product product2 = new Product {Id=2, CategoryId=5, UnitsInStock=5, ProductName="Kalem", UnitPrice=35 };
 
