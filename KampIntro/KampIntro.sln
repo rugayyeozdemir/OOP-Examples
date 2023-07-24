@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{40A1C501-8537-4CF2-A7F2-80968F240E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{1D18FD3A-31F3-45D3-AA34-233F0513F14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A1C501-8537-4CF2-A7F2-80968F240E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A1C501-8537-4CF2-A7F2-80968F240E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A1C501-8537-4CF2-A7F2-80968F240E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A1C501-8537-4CF2-A7F2-80968F240E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D18FD3A-31F3-45D3-AA34-233F0513F14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D18FD3A-31F3-45D3-AA34-233F0513F14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D18FD3A-31F3-45D3-AA34-233F0513F14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D18FD3A-31F3-45D3-AA34-233F0513F14C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C117ACD1-49C7-455E-A597-E472B6523DA4}
+	EndGlobalSection
+EndGlobal
